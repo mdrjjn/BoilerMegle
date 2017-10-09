@@ -142,3 +142,12 @@ table {
     border-top: 0px solid #e9ecef;
     border-radius: 5px;
 }
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+     margin-right: 0px; 
+    margin-left: -15px;
+}
