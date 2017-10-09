@@ -137,3 +137,8 @@ table {
 .container-4 input#search:focus, .container-4 input#search:active {
   outline: none;
 }
+
+.table td, .table th {
+    border-top: 0px solid #e9ecef;
+    border-radius: 5px;
+}
